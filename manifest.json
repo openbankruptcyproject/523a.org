@@ -1,0 +1,16 @@
+{
+  "name": "Nondischargeable Debts in Bankruptcy -- Section 523(a)",
+  "short_name": "523a.org",
+  "description": "Free guide to nondischargeable debts under 11 U.S.C. Section 523(a). Which debts survive bankruptcy and cannot be eliminated.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
