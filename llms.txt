@@ -6,8 +6,14 @@
 
 ## Pages
 
-- https://523a.org/: Complete guide to nondischargeable debts -- which debts survive Chapter 7 and Chapter 13
-- https://523a.org/student-loans.html: Student loans in bankruptcy -- the Brunner test, undue hardship, and recent changes
+- https://523a.org/: Section 523(a) overview -- what debts survive bankruptcy, quick reference table, Chapter 7 vs Chapter 13 differences
+- https://523a.org/student-loans.html: Student loans in bankruptcy -- the Brunner test, undue hardship, 2022 DOJ guidance, adversary proceedings
+- https://523a.org/tax-debts.html: Tax debts in bankruptcy -- the 3-year, 2-year, and 240-day rules, priority vs nonpriority, tax liens
+- https://523a.org/fraud-debts.html: Fraud debts -- Section 523(a)(2), false pretenses, credit card fraud presumption, 60-day adversary deadline
+- https://523a.org/child-support.html: Child support and alimony -- domestic support obligations, absolute priority, Chapter 13 arrears management
+- https://523a.org/dwi-debts.html: DUI/DWI debts -- Section 523(a)(9), death or personal injury from intoxicated driving
+- https://523a.org/government-fines.html: Government fines and penalties -- Section 523(a)(7), criminal restitution 523(a)(13), regulatory fines
+- https://523a.org/full-list.html: Complete list of all 19 subsections of Section 523(a) with plain English explanations
 
 ## Contact
 

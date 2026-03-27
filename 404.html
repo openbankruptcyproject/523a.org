@@ -30,15 +30,19 @@
   nav {
     background: var(--surface);
     border-bottom: 1px solid var(--border);
-    padding: 0.75rem 1.5rem;
+    padding: 0.75rem 2rem;
     display: flex;
     align-items: center;
-    gap: 1.5rem;
+    justify-content: space-between;
     flex-wrap: wrap;
+    gap: 0.5rem;
   }
-  .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; }
-  .nav-links { display: flex; gap: 1rem; flex-wrap: wrap; }
-  .nav-links a { font-size: 0.85rem; }
+  .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
   .container {
     max-width: 600px;
     margin: 0 auto;
@@ -59,6 +63,10 @@
     font-size: 1rem;
   }
   .actions a.primary:hover { background: #2ea043; text-decoration: none; }
+  .page-links { margin-top: 2rem; }
+  .page-links p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.75rem; }
+  .page-links ul { list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; justify-content: center; }
+  .page-links li a { font-size: 0.9rem; }
   .network { margin-top: 2rem; }
   .network p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.5rem; }
   .network-links { display: flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center; }
@@ -71,15 +79,28 @@
     font-size: 0.8rem;
     color: var(--text-muted);
   }
+  @media (max-width: 600px) {
+    nav { padding: 0.75rem 1rem; }
+    .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+  }
 </style>
 </head>
 <body>
 
 <nav aria-label="Main navigation">
   <a href="/" class="site-name">523a.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
   <div class="nav-links">
-    <a href="https://1328f.com">1328f.com</a>
-    <a href="https://1328f.org">1328f.org</a>
+    <a href="/">Home</a>
+    <a href="/student-loans.html">Student Loans</a>
+    <a href="/tax-debts.html">Tax Debts</a>
+    <a href="/fraud-debts.html">Fraud</a>
+    <a href="/child-support.html">Support &amp; Alimony</a>
+    <a href="/dwi-debts.html">DUI/DWI</a>
+    <a href="/government-fines.html">Gov Fines</a>
+    <a href="/full-list.html">Full List</a>
   </div>
 </nav>
 
@@ -89,6 +110,18 @@
   <div class="actions">
     <a href="/" class="primary">Back to 523a.org</a>
     <a href="https://1328f.com">Check your bankruptcy discharge eligibility</a>
+  </div>
+  <div class="page-links">
+    <p>Looking for one of these guides?</p>
+    <ul>
+      <li><a href="/student-loans.html">Student Loans</a></li>
+      <li><a href="/tax-debts.html">Tax Debts</a></li>
+      <li><a href="/fraud-debts.html">Fraud</a></li>
+      <li><a href="/child-support.html">Child Support</a></li>
+      <li><a href="/dwi-debts.html">DUI/DWI</a></li>
+      <li><a href="/government-fines.html">Gov Fines</a></li>
+      <li><a href="/full-list.html">Full List</a></li>
+    </ul>
   </div>
   <div class="network">
     <p>Other resources in the Bankruptcy Transparency Network:</p>
