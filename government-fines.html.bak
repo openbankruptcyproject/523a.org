@@ -16,22 +16,22 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>DUI/DWI Debts in Bankruptcy - Section 523(a)(9)</title>
-<meta name="description" content="DUI and DWI debts for death or personal injury caused by intoxicated driving are nondischargeable under Section 523(a)(9). This applies to alcohol, drugs, and other substances. Covers both Chapter 7 and Chapter 13 bankruptcy.">
-<meta name="keywords" content="DUI debt bankruptcy, DWI bankruptcy, 523(a)(9), drunk driving debt discharge, intoxicated driving bankruptcy, personal injury DUI nondischargeable">
-<link rel="canonical" href="https://523a.org/dwi-debts.html">
-<link rel="alternate" hreflang="en" href="https://523a.org/dwi-debts.html">
-<link rel="alternate" hreflang="es" href="https://523a.org/dwi-debts-es.html">
+<title>Government Fines and Penalties in Bankruptcy - Sections 523(a)(7) and 523(a)(13)</title>
+<meta name="description" content="Government fines, penalties, and criminal restitution are nondischargeable under Sections 523(a)(7) and 523(a)(13). Traffic tickets, regulatory fines, tax penalties, and court-ordered restitution all survive bankruptcy. Free 2026 guide.">
+<meta name="keywords" content="government fines bankruptcy, 523(a)(7), criminal restitution bankruptcy, 523(a)(13), regulatory fines discharge, traffic tickets bankruptcy, court costs bankruptcy, tax penalties discharge">
+<link rel="canonical" href="https://523a.org/government-fines.html">
+<link rel="alternate" hreflang="en" href="https://523a.org/government-fines.html">
+<link rel="alternate" hreflang="es" href="https://523a.org/government-fines-es.html">
 
-<meta property="og:title" content="DUI/DWI Debts in Bankruptcy - Section 523(a)(9)">
-<meta property="og:description" content="DUI and DWI debts for death or personal injury caused by intoxicated driving are nondischargeable under Section 523(a)(9). Covers both Chapter 7 and Chapter 13.">
+<meta property="og:title" content="Government Fines and Penalties in Bankruptcy - Sections 523(a)(7) and 523(a)(13)">
+<meta property="og:description" content="Government fines, penalties, and criminal restitution are nondischargeable under Sections 523(a)(7) and 523(a)(13). Traffic tickets and regulatory fines survive bankruptcy.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://523a.org/dwi-debts.html">
+<meta property="og:url" content="https://523a.org/government-fines.html">
 <meta property="og:site_name" content="523a.org">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="DUI/DWI Debts in Bankruptcy - Section 523(a)(9)">
-<meta name="twitter:description" content="DUI and DWI debts for death or personal injury caused by intoxicated driving are nondischargeable under Section 523(a)(9). Covers both Chapter 7 and Chapter 13.">
+<meta name="twitter:title" content="Government Fines and Penalties in Bankruptcy - Sections 523(a)(7) and 523(a)(13)">
+<meta name="twitter:description" content="Government fines, penalties, and criminal restitution are nondischargeable under Sections 523(a)(7) and 523(a)(13). Traffic tickets and regulatory fines survive bankruptcy.">
 <meta property="og:image" content="/og-image.svg">
 <meta name="twitter:image" content="/og-image.svg">
 
@@ -46,26 +46,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Can DUI debts be discharged in bankruptcy?",
+      "name": "Can government fines be discharged in bankruptcy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Under Section 523(a)(9), any debt for death or personal injury caused by the debtor's operation of a motor vehicle, vessel, or aircraft while legally intoxicated is nondischargeable. This applies in both Chapter 7 and Chapter 13. The debt survives automatically - the victim does not need to file an adversary proceeding."
+        "text": "Most government fines and penalties are nondischargeable under Section 523(a)(7). This includes criminal fines, regulatory penalties, traffic tickets, and penalties assessed by government agencies. However, there is a narrow exception: fines that are compensation for actual pecuniary loss (basically, fines that are really just reimbursement to the government for costs it incurred) may be dischargeable."
       }
     },
     {
       "@type": "Question",
-      "name": "Does Section 523(a)(9) cover property damage from a DUI?",
+      "name": "Can criminal restitution be discharged in bankruptcy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Section 523(a)(9) only covers death or personal injury. Property damage from a DUI accident is potentially dischargeable in bankruptcy, unless the creditor argues it falls under a different exception like willful and malicious injury under Section 523(a)(6)."
+        "text": "No. Criminal restitution is nondischargeable under Section 523(a)(13), which covers restitution included in a sentence on the debtor's conviction of a crime. This applies regardless of whether the restitution is owed to a government entity or a private victim. It is nondischargeable in both Chapter 7 and Chapter 13."
       }
     },
     {
       "@type": "Question",
-      "name": "Are DUI fines and criminal penalties dischargeable?",
+      "name": "Are traffic tickets dischargeable in bankruptcy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "DUI fines and criminal penalties are nondischargeable under a different section - 523(a)(7), which covers government fines and penalties. Criminal restitution ordered as part of a DUI sentence is also nondischargeable under 523(a)(13). So while the statutory basis differs, the practical result is the same: DUI-related government obligations survive bankruptcy."
+        "text": "No. Traffic tickets are government fines and penalties, making them nondischargeable under Section 523(a)(7). This applies to parking tickets, speeding tickets, red light camera fines, and other traffic violations. Some courts have held that very old, uncollected traffic tickets may be dischargeable, but this is the minority view."
       }
     }
   ]
@@ -78,7 +78,7 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "523a.org", "item": "https://523a.org/" },
-    { "@type": "ListItem", "position": 2, "name": "DUI/DWI Debts", "item": "https://523a.org/dwi-debts.html" }
+    { "@type": "ListItem", "position": 2, "name": "Government Fines", "item": "https://523a.org/government-fines.html" }
   ]
 }
 </script>
@@ -132,8 +132,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "DUI/DWI Debts in Bankruptcy",
-      "description": "Debts for death or personal injury caused by intoxicated driving cannot be discharged in bankruptcy. Learn about Section 523(a)(9), what it covers, and what rel",
+      "headline": "Government Fines and Penalties in Bankruptcy",
+      "description": "Can government fines be discharged in bankruptcy? Most cannot. Learn about Section 523(a)(7) covering fines and penalties, Section 523(a)(13) covering criminal ",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -145,12 +145,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://523a.org/dwi-debts.html"
+      "mainEntityOfPage": "https://523a.org/government-fines.html"
     },
     {
       "@type": "WebPage",
-      "name": "DUI/DWI Debts in Bankruptcy",
-      "url": "https://523a.org/dwi-debts.html",
+      "name": "Government Fines and Penalties in Bankruptcy",
+      "url": "https://523a.org/government-fines.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -165,27 +165,6 @@
 }
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 
@@ -201,106 +180,122 @@
     <a href="/fraud-debts.html">Fraud</a>
     <a href="/child-support.html">Support</a>
     <a href="/willful-injury.html">Willful Injury</a>
-    <a href="/government-fines.html">Gov Fines</a>
+    <a href="/government-fines.html" class="active">Gov Fines</a>
     <a href="/student-loans.html">Student Loans</a>
-    <a href="/dwi-debts.html" class="active">DUI/DWI</a>
+    <a href="/dwi-debts.html">DUI/DWI</a>
   </div>
 </nav>
 
 <header>
-  <h1><span class="accent">DUI/DWI Debts</span> in Bankruptcy</h1>
-  <p class="subtitle">You caused an accident while intoxicated and now owe a judgment. Can bankruptcy help? For the personal injury piece - no. But there is more to the picture.</p>
+  <h1><span class="accent">Government Fines and Penalties</span> in Bankruptcy</h1>
+  <p class="subtitle">You owe the government money - fines, penalties, restitution, or regulatory assessments. Here is what survives bankruptcy and what does not.</p>
 </header>
 
 <div class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/">523a.org</a> &rsaquo; DUI/DWI Debts
+  <a href="/">523a.org</a> &rsaquo; Government Fines
 </div>
 
 <main id="main-content">
 
   <div class="quick-answer">
-    <strong>The answer is no.</strong> Debts for death or personal injury caused by operating a motor vehicle while intoxicated are <a href="https://nondischargeable.org/" title="nondischargeable">nondischargeable</a> under 11 U.S.C. Section 523(a)(9). This applies in both <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>. No adversary proceeding is required - it is automatic.
+    <strong>Most government fines survive.</strong> Criminal fines, regulatory penalties, traffic tickets, and restitution are generally <a href="https://nondischargeable.org/" title="nondischargeable">nondischargeable</a> under Sections 523(a)(7) and 523(a)(13). The narrow exception: fines that compensate the government for actual monetary losses may be dischargeable.
   </div>
 
   <div class="content-section">
-    <h2>What Section 523(a)(9) Covers</h2>
-    <p>The statute is narrow but absolute. It covers debts for <strong>death or personal injury</strong> caused by the debtor's operation of a <strong>motor vehicle, vessel, or aircraft</strong> if the debtor was <strong>intoxicated</strong> from using alcohol, drugs, or another substance.</p>
+    <h2>Section 523(a)(7) - Fines, Penalties, and Forfeitures</h2>
+    <p>Section 523(a)(7) makes the following <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a>: any debt that is a fine, penalty, or forfeiture payable to and for the benefit of a governmental unit, <strong>to the extent that it is not compensation for actual pecuniary loss</strong>.</p>
+    <p>Translation: if the government imposed a fine to punish you, it survives bankruptcy. If the government imposed a charge to reimburse itself for actual costs it incurred, that charge may be dischargeable.</p>
 
-    <h3>Every element matters:</h3>
+    <h3>Nondischargeable (Punitive)</h3>
     <ul>
-      <li><strong>Death or personal injury</strong> - physical harm to another person. This does NOT include property damage.</li>
-      <li><strong>Motor vehicle, vessel, or aircraft</strong> - covers cars, trucks, motorcycles, boats, and planes. Courts have also applied it to ATVs, snowmobiles, and other motorized vehicles.</li>
-      <li><strong>Intoxication</strong> - the debtor was legally intoxicated under applicable law at the time of the incident. A DUI conviction is strong evidence but not always required; the creditor can prove intoxication through other evidence.</li>
+      <li>Criminal fines from any conviction</li>
+      <li>Traffic tickets (parking, speeding, red light)</li>
+      <li>DUI fines and court costs</li>
+      <li>EPA environmental penalties</li>
+      <li>OSHA violations</li>
+      <li>SEC penalties</li>
+      <li>Tax fraud penalties (as distinct from the tax itself)</li>
+      <li>Building code violation fines</li>
+      <li>Contempt of court fines payable to the government</li>
     </ul>
-  </div>
 
-  <div class="content-section">
-    <h2>What Section 523(a)(9) Does NOT Cover</h2>
-    <p>Understanding the limits of this section is just as important:</p>
+    <h3>Potentially Dischargeable (Compensatory)</h3>
+    <ul>
+      <li>Government cleanup costs for environmental contamination (some courts treat these as compensatory)</li>
+      <li>Costs of prosecution charges that reimburse actual expenses</li>
+      <li>Government medical costs for treating an inmate</li>
+    </ul>
 
-    <h3>Property Damage</h3>
-    <p>Section 523(a)(9) only covers personal injury and death. If you totaled someone's car while driving drunk but nobody was physically hurt, the property damage claim is <strong>not</strong> covered by this section. The creditor would need to argue under a different exception - typically 523(a)(6), willful and malicious injury - which requires an adversary proceeding and a higher proof burden.</p>
-
-    <h3>DUI Fines and Criminal Penalties</h3>
-    <p>Government-imposed fines, court costs, and penalties from a DUI conviction are <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a>, but under a different section - <a href="/government-fines.html">523(a)(7)</a>, not (a)(9). The practical result is the same: they survive bankruptcy.</p>
-
-    <h3>Criminal Restitution</h3>
-    <p>Restitution ordered as part of a criminal sentence is <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> under 523(a)(13). This also survives bankruptcy regardless of chapter.</p>
-
-    <div class="highlight-box">
-      <p><strong>So what IS dischargeable from a DUI?</strong> Potentially: defense attorney fees (if not secured), surcharges on insurance premiums (these are not government fines), and property damage claims if the creditor does not file an adversary proceeding under 523(a)(6) within 60 days.</p>
+    <div class="highlight-box warning">
+      <p><strong>The line is blurry.</strong> Courts have struggled with hybrid obligations - fines that serve both punitive and compensatory purposes. The general rule: if the primary purpose is punishment or deterrence, it is <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a>. If the primary purpose is reimbursement, it may be dischargeable. Most government fines are treated as punitive.</p>
     </div>
   </div>
 
   <div class="content-section">
-    <h2>Self-Executing Exception - No Adversary Proceeding Needed</h2>
-    <p>Unlike fraud claims under 523(a)(2), the DUI exception under 523(a)(9) is <strong>self-executing</strong>. The victim does not need to file an adversary proceeding or meet any deadline. The debt is automatically <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a>.</p>
-    <p>However, if there is a dispute about whether the debtor was actually intoxicated or whether the injury was actually caused by the intoxication, either party can file a declaratory judgment action to resolve the question.</p>
+    <h2>Section 523(a)(13) - Criminal Restitution</h2>
+    <p>Added by the 1994 amendments and strengthened by <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> in 2005, Section 523(a)(13) makes <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> any payment of restitution included in a sentence on the debtor's conviction of a crime.</p>
+    <p>This is straightforward:</p>
+    <ul>
+      <li>If a criminal court ordered you to pay restitution to a victim (or to the government), that obligation survives bankruptcy</li>
+      <li>It does not matter whether the restitution is owed to a person, a business, or a government entity</li>
+      <li>It applies in both <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></li>
+      <li>No adversary proceeding is needed - it is self-executing</li>
+    </ul>
+
+    <div class="highlight-box">
+      <p><strong>Civil vs. criminal:</strong> Section 523(a)(13) only covers restitution ordered as part of a <strong>criminal</strong> sentence. A civil judgment for the same conduct might be dischargeable unless it falls under another exception (fraud, willful injury, etc.).</p>
+    </div>
+  </div>
+
+  <div class="content-section">
+    <h2>Common Scenarios</h2>
+
+    <h3>Traffic Tickets and Parking Fines</h3>
+    <p><a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">Nondischargeable</a>. Traffic fines are government penalties imposed for violating traffic laws. They survive <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>. If you have thousands in unpaid parking tickets, bankruptcy will not help with those - but it can eliminate <a href="https://creditcarddebtbankruptcy.org" title="Credit Card Debt and Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">credit card debt</a> and medical bills, freeing up money to pay the tickets.</p>
+
+    <h3>Probation Fees and Supervision Costs</h3>
+    <p>Generally <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> if imposed as a condition of a criminal sentence. Courts typically treat these as penalties payable to the government.</p>
+
+    <h3>IRS Penalties (Non-Fraud)</h3>
+    <p>Tax penalties that relate to a dischargeable tax debt may be discharged along with the underlying tax. See <a href="/tax-debts.html">Tax Debts in Bankruptcy</a> for the detailed rules. Fraud-related tax penalties are always <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a>.</p>
+
+    <h3>HOA/Condo Fines vs. Government Fines</h3>
+    <p>Fines from a homeowners association are NOT government fines and are potentially dischargeable. Section 523(a)(7) only applies to fines payable to a "governmental unit." An HOA is a private entity.</p>
+
+    <h3>Environmental Cleanup Obligations</h3>
+    <p>This is one of the most litigated areas. The Supreme Court in <em>Ohio v. Kovacs</em> (1985) addressed some aspects, but lower courts remain split on when environmental obligations are "penalties" (<a href="https://nondischargeable.org/" title="nondischargeable">nondischargeable</a>) vs. "cleanup costs" (potentially dischargeable). The answer often depends on the specific statute and the nature of the government action.</p>
   </div>
 
   <div class="content-section">
     <h2>Chapter 7 vs. Chapter 13</h2>
-    <p>DUI injury debts are <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> in both chapters. Before the 2005 <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> amendments, <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> could <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> some DUI-related debts through the "super <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>." That loophole is closed. Today:</p>
+    <p>Government fines and criminal restitution are nondischargeable in both chapters. However, Chapter 13 offers some practical advantages:</p>
     <ul>
-      <li><strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>:</strong> The injury judgment survives. You still owe the full amount after discharge.</li>
-      <li><strong>Chapter 13:</strong> Same result - the debt survives. But the plan can help you manage payments on the judgment while catching up on other obligations. The <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> may temporarily halt collection efforts on the judgment during the plan period.</li>
+      <li>The plan can structure payments on government fines over 3-5 years</li>
+      <li>The <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> temporarily halts collection actions (but not criminal proceedings)</li>
+      <li>By eliminating other debts through the plan, you free up income for government obligations</li>
     </ul>
-  </div>
 
-  <div class="content-section">
-    <h2>Proving Intoxication in Bankruptcy Court</h2>
-    <p>If the debtor was convicted of DUI/DWI, the creditor can use the conviction as evidence of intoxication. Many courts apply collateral estoppel (issue preclusion) - meaning if the criminal court already determined intoxication beyond a reasonable doubt, the bankruptcy court will not relitigate the issue.</p>
-    <p>If there was no conviction (charges dismissed, plea to a lesser offense), the creditor must prove intoxication by a preponderance of the evidence in bankruptcy court. Evidence can include:</p>
-    <ul>
-      <li>BAC test results</li>
-      <li>Police reports and officer testimony</li>
-      <li>Witness statements</li>
-      <li>Hospital blood draws</li>
-      <li>Admission by the debtor</li>
-    </ul>
+    <div class="highlight-box">
+      <p><strong>Important limitation:</strong> The <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> does not stop criminal proceedings. If you have an outstanding warrant or pending criminal case, bankruptcy does not pause it. Under <a href="https://automaticstay.org" title="Section 362 Automatic Stay - Open Bankruptcy Project" target="_blank" rel="noopener">Section 362</a>(b)(1), the stay does not apply to criminal actions or proceedings.</p>
+    </div>
   </div>
 
   <div class="content-section">
     <h2>Frequently Asked Questions</h2>
 
     <div style="margin-bottom:1.25rem;">
-      <h3>I got a DUI but nobody was hurt. Can I discharge the fines?</h3>
-      <p>No. DUI fines and penalties are <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> under <a href="/government-fines.html">Section 523(a)(7)</a> as government penalties. However, if the only consequence was a fine (no injury, no restitution), Section 523(a)(9) is not directly at issue - (a)(7) is.</p>
+      <h3>Can I discharge court costs from a criminal case?</h3>
+      <p>Generally no. Court costs imposed as part of a criminal sentence are treated as fines or penalties under 523(a)(7). However, if the court costs are purely compensatory (reimbursing actual costs of prosecution), a minority of courts have allowed <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
     </div>
 
     <div style="margin-bottom:1.25rem;">
-      <h3>What about a civil lawsuit from the accident?</h3>
-      <p>If the lawsuit resulted in a judgment for personal injury or wrongful death and you were intoxicated, that judgment is <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> under 523(a)(9). If the lawsuit was only for property damage, it is potentially dischargeable unless the creditor proves willful and malicious injury under 523(a)(6).</p>
+      <h3>What about civil contempt fines?</h3>
+      <p>It depends on the purpose. If the contempt fine is coercive (designed to force compliance), it may be dischargeable once the underlying order is resolved. If the fine is punitive (punishment for past conduct), it is nondischargeable under 523(a)(7).</p>
     </div>
 
     <div style="margin-bottom:1.25rem;">
-      <h3>Does this apply to prescription drugs?</h3>
-      <p>Yes. The statute covers intoxication from "alcohol, a drug, or another substance." If you were impaired by prescription medication and caused death or personal injury, the debt is <a href="https://nondischargeable.org/" title="nondischargeable">nondischargeable</a>.</p>
-    </div>
-
-    <div style="margin-bottom:1.25rem;">
-      <h3>Can insurance cover any of this?</h3>
-      <p>Auto insurance may cover some liability up to policy limits. But if the judgment exceeds your coverage - or your insurer denies the claim due to intoxication - you are personally liable for the remainder, and that liability cannot be discharged.</p>
+      <h3>Are student loan penalties or fees government fines?</h3>
+      <p>No. <a href="https://bankruptcystudentloans.org/" title="student loans">Student loan</a> penalties, collection costs, and fees are part of the <a href="https://bankruptcystudentloans.org/" title="student loans">student loan</a> obligation and are analyzed under <a href="/student-loans.html">Section 523(a)(8)</a>, not (a)(7).</p>
     </div>
   </div>
 
@@ -308,10 +303,10 @@
     <h2>Related Resources</h2>
     <ul>
       <li><a href="/">All Nondischargeable Debts - Section 523(a) Overview</a></li>
-      <li><a href="/government-fines.html">Government Fines and Penalties</a> - including DUI criminal fines</li>
+      <li><a href="/dwi-debts.html">DUI/DWI Debts</a> - intoxicated driving injury claims</li>
       <li><a href="/full-list.html">Complete List of All 19 Subsections</a></li>
       <li><a href="https://1328f.com">Free Discharge Eligibility Screener</a></li>
-      <li><a href="https://automaticstay.org">The Automatic Stay</a> - can it stop a civil lawsuit from a DUI?</li>
+      <li><a href="https://automaticstay.org">The Automatic Stay</a> - what it stops and what exceptions exist</li>
     </ul>
   </div>
 
@@ -322,8 +317,8 @@
   <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
   <li><a href="https://524injunction.org" style="color:#58a6ff;text-decoration:none">524 Discharge Injunction</a></li>
   <li><a href="https://bankruptcydischarge.org" style="color:#58a6ff;text-decoration:none">Understanding Bankruptcy Discharge</a></li>
+  <li><a href="https://dischargebar.org" style="color:#58a6ff;text-decoration:none">Discharge Bar Rules</a></li>
   <li><a href="https://dischargeinjunction.org" style="color:#58a6ff;text-decoration:none">Section 524 Discharge Injunction</a></li>
-  <li><a href="https://section1328.org" style="color:#58a6ff;text-decoration:none">Section 1328 Discharge</a></li>
   </ul>
 </div>
 
@@ -379,7 +374,7 @@
   <ul style="list-style:none;padding:0;margin:0">
     <li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=523a.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=523a.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=523a.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=523a.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
   </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -391,7 +386,7 @@
   <div class="links">
     <a href="https://1328f.com?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a> <a href="https://1328f.org?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network">1328f.org</a> <a href="https://automaticstay.org?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network">automaticstay.org</a> <a href="https://meanstest.org?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network">meanstest.org</a> <a href="https://341meeting.org?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network">341meeting.org</a> <a href="https://523a.org">523a.org</a> <a href="https://109g.org?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network">109g.org</a> <a href="https://727a8.com?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network">727a8.com</a> <a href="https://relieffromstay.org?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network">relieffromstay.org</a> <a href="https://dischargeinjunction.com?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network">dischargeinjunction.com</a> <a href="https://prosedebtors.org?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network">prosedebtors.org</a> <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a> <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
   </div>
-  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=523a.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
