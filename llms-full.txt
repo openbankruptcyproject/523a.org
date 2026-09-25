@@ -1,6 +1,6 @@
 # 523a.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on 523a.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -16,6 +16,8 @@ Source: https://523a.org/5-nondischargeable-debts.html
 5 Nondischargeable Debts That Survive Bankruptcy
 
 The most common debts that Section 523(a) protects from discharge - and what you can do about them
+
+The five most common nondischargeable debts are: (1) certain tax debts under 523(a)(1), (2) student loans under 523(a)(8) unless undue hardship is proven, (3) domestic support obligations (child support and alimony) under 523(a)(5), (4) debts obtained through fraud under 523(a)(2), and (5) DUI/DWI injury judgments under 523(a)(9).
 
 Overview: Why Some Debts Survive Bankruptcy
 
@@ -111,9 +113,33 @@ All 19 Nondischargeable Debts
 Nondischargeable Debts Guide
 1328(f) Discharge Screener
 
-Part of the Open Bankruptcy Project - free, open-source bankruptcy information.
+Part of the Bankruptcy Transparency Network
 
-This is educational information, not legal advice. Consult a licensed attorney for guidance on your specific situation.
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -219,7 +245,7 @@ Alimony, maintenance, child support. Never dischargeable. No exceptions.
 
 Property Settlements (Section 523(a)(15))
 
-Equalization payments, debt assumptions, and other financial obligations from a divorce that are NOT in the nature of support. Example: the divorce decree says you must pay your ex $20,000 as an equalization payment, or you must pay off a joint credit card as part of the property division.
+Equalization payments, debt assumptions, and other financial obligations from a divorce that are NOT in the nature of support. Example: the divorce decree says you must pay your ex $20,000 as an equalization payment, or you must pay off a joint credit card as part of the property división.
 
 Before 2005, property settlements were dischargeable in Chapter 13. After the BAPCPA amendments, they are nondischargeable in both Chapter 7 and Chapter 13.
 
@@ -242,6 +268,20 @@ Yes. You can file Chapter 7 even with support arrears. The support debt will sur
 Will the automatic stay stop wage garnishment for child support?
 
 Partially. The stay stops garnishment from pre-petition arrears, but income withholding for current support continues even during bankruptcy. Under Section 362(b)(2)(B), the stay does not apply to income withholding orders for support.
+
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
 
 Related Resources
 
@@ -312,7 +352,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 You May Also Find Helpful
 
@@ -322,18 +362,33 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org 523a.org 109g.org 727a8.com relieffromstay.org dischargeinjunction.com prosedebtors.org ♥ Sponsor GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -353,9 +408,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -385,7 +440,7 @@ You ran up credit cards before filing. Or a creditor is claiming fraud. Here is 
 
 523a.org › Fraud Debts › Credit Card Fraud Presumption
 
-Quick answer: Most credit card debt is dischargeable in bankruptcy. But if you charged more than $800 in luxury goods within 90 days of filing, or took more than $1,100 in cash advances within 70 days, the law presumes those charges were fraudulent. The creditor must still file a lawsuit within 60 days - and the presumption can be rebutted.
+Quick answer: Most credit card debt is dischargeable in bankruptcy. But if you charged more than $900 in luxury goods within 90 days of filing, or took more than $1,250 in cash advances within 70 days, the law presumes those charges were fraudulent. The creditor must still file a lawsuit within 60 days - and the presumption can be rebutted.
 
 On This Page
 
@@ -419,15 +474,15 @@ The Luxury Goods Presumption - Section 523(a)(2)(C)
 
 Section 523(a)(2)(C) creates a rebuttable presumption of fraud for two specific categories of pre-filing credit use:
 
-Luxury Goods or Services - The 90-Day/$800 Rule
+Luxury Goods or Services - The 90-Day/$900 Rule
 
-Consumer debts owed to a single creditor aggregating more than $800 for luxury goods or services incurred within 90 days before the order for relief (filing date) are presumed to be nondischargeable.
+Consumer debts owed to a single creditor aggregating more than $900 for luxury goods or services incurred within 90 days before the order for relief (filing date) are presumed to be nondischargeable.
 
 Cash Advances - The 70-Day/$1,250 Rule
 
 Cash advances aggregating more than $1,250 that are extensions of consumer credit under an open-end credit plan obtained by the debtor within 70 days before the order for relief are presumed to be nondischargeable.
 
-These dollar amounts are periodically adjusted. The $800 and $1,100 figures were set by the 2005 BAPCPA amendments and are adjusted every three years for inflation under 11 U.S.C. Section 104. Always verify the current amounts at the time of filing. The figures stated here reflect the amounts as of the most recent adjustment.
+These dollar amounts are periodically adjusted. The $900 and $1,250 figures were set by the 2005 BAPCPA amendments and are adjusted every three years for inflation under 11 U.S.C. Section 104. Always verify the current amounts at the time of filing. The figures stated here reflect the amounts as of the most recent adjustment.
 
 The word "presumption" is critical. It means the creditor does not have to prove you committed fraud - the law assumes it from the timing and amount of the charges. But the presumption is rebuttable: you can present evidence to overcome it.
 
@@ -475,7 +530,7 @@ The gray area: Many purchases fall somewhere in between. A new laptop could be a
 
 The Cash Advance Rule
 
-Cash advances have a shorter look-back period (70 days) and a higher threshold ($1,100) than luxury goods. This is because cash advances are viewed as a stronger indicator of potential fraud - the debtor is essentially borrowing cash they may never repay.
+Cash advances have a shorter look-back period (70 days) and a higher threshold ($1,250) than luxury goods. This is because cash advances are viewed as a stronger indicator of potential fraud - the debtor is essentially borrowing cash they may never repay.
 
 The cash advance presumption applies to extensions of consumer credit under an open-end credit plan. This includes:
 
@@ -501,7 +556,7 @@ No sudden change in spending - the charges were consistent with your historical 
 
 Unexpected financial crisis - a job loss, medical emergency, or other unforeseen event occurred after the charges, destroying your ability to repay
 
-The purchases were necessities - even if they technically exceed $800, argue they were reasonably necessary for support
+The purchases were necessities - even if they technically exceed $900, argue they were reasonably necessary for support
 
 You consulted a bankruptcy attorney after the charges - you did not know you would be filing when you made the purchases
 
@@ -603,7 +658,7 @@ Yes. The overwhelming majority of credit card debt is discharged in bankruptcy. 
 
 What is the luxury goods presumption?
 
-Section 523(a)(2)(C) creates a legal shortcut for creditors. If you charged more than $800 for luxury goods or services to a single creditor within 90 days of filing, the law presumes those charges were fraudulent. "Luxury goods" means anything not reasonably necessary for your support - think electronics, jewelry, vacations, and entertainment. Basic necessities like groceries, gas, and medicine do not count. The presumption is rebuttable: you can present evidence showing you intended to repay.
+Section 523(a)(2)(C) creates a legal shortcut for creditors. If you charged more than $900 for luxury goods or services to a single creditor within 90 days of filing, the law presumes those charges were fraudulent. "Luxury goods" means anything not reasonably necessary for your support - think electronics, jewelry, vacations, and entertainment. Basic necessities like groceries, gas, and medicine do not count. The presumption is rebuttable: you can present evidence showing you intended to repay.
 
 How long should I wait to file after using credit cards?
 
@@ -612,6 +667,20 @@ At minimum, wait 90 days after any luxury purchases and 70 days after any cash a
 What happens if a creditor objects to discharge of my credit card debt?
 
 The creditor must file an adversary proceeding within 60 days after the first 341 meeting date. If they file, the proceeding is a mini-lawsuit with discovery, motions, and potentially a trial. Most cases settle. If the presumption applies, you will need to present evidence that you intended to repay. If the presumption does not apply, the creditor must prove all five elements of fraud. An experienced bankruptcy attorney can help you evaluate your defense.
+
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
 
 Related Resources
 
@@ -690,7 +759,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 You May Also Find Helpful
 
@@ -700,18 +769,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org 523a.org 109g.org 727a8.com relieffromstay.org dischargeinjunction.com prosedebtors.org ♥ Sponsor GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -731,9 +815,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -843,6 +927,20 @@ Can insurance cover any of this?
 
 Auto insurance may cover some liability up to policy limits. But if the judgment exceeds your coverage - or your insurer denies the claim due to intoxication - you are personally liable for the remainder, and that liability cannot be discharged.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
+
 Related Resources
 
 All Nondischargeable Debts - Section 523(a) Overview
@@ -914,7 +1012,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 You May Also Find Helpful
 
@@ -924,18 +1022,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org 523a.org 109g.org 727a8.com relieffromstay.org dischargeinjunction.com prosedebtors.org ♥ Sponsor GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -955,9 +1068,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1043,7 +1156,7 @@ This is the rule that panics people. Section 523(a)(2)(C) creates a presumption 
 
 Luxury Goods Presumption
 
-Consumer debts owed to a single creditor for luxury goods or services exceeding $800 incurred within 90 days before filing are presumed nondischargeable.
+Consumer debts owed to a single creditor for luxury goods or services exceeding $900 incurred within 90 days before filing are presumed nondischargeable.
 
 Cash Advance Presumption
 
@@ -1125,6 +1238,20 @@ Can a creditor claim fraud after the bankruptcy is over?
 
 No. If the creditor received proper notice of the bankruptcy and the 341 meeting date but failed to file an adversary proceeding within 60 days, the debt is discharged permanently. The creditor cannot revisit the issue later.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
+
 Related Resources
 
 All Nondischargeable Debts - Section 523(a) Overview
@@ -1194,7 +1321,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 You May Also Find Helpful
 
@@ -1204,18 +1331,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org 523a.org 109g.org 727a8.com relieffromstay.org dischargeinjunction.com prosedebtors.org ♥ Sponsor GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1235,9 +1377,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1252,7 +1394,7 @@ Skip to main content
 
 Home
 FAQ
-Espanol
+Español
 
 Nondischargeable Debts FAQ - Section 523(a) Questions Answered
 
@@ -1278,7 +1420,7 @@ No. Child support and alimony are classified as domestic support obligations und
 
 Can credit card debt be declared nondischargeable?
 
-Generally, credit card debt is dischargeable. However, a creditor can challenge discharge if they prove the charges were incurred through fraud, false pretenses, or false financial statements. Luxury purchases over $800 within 90 days of filing create a presumption of fraud under Section 523(a)(2).
+Generally, credit card debt is dischargeable. However, a creditor can challenge discharge if they prove the charges were incurred through fraud, false pretenses, or false financial statements. Luxury purchases over $900 within 90 days of filing create a presumption of fraud under Section 523(a)(2).
 
 What happens if a debt is not listed in my bankruptcy?
 
@@ -1320,6 +1462,8 @@ What is the deadline for a creditor to object to discharge?
 
 Creditors must file a complaint objecting to dischargeability within 60 days after the first date set for the 341 meeting of creditors. This deadline can be extended by court order if the creditor files a motion before the deadline expires. Missing this deadline generally means the debt is discharged.
 
+Section 523(a) lists 19 categories of nondischargeable debts, including most tax debts, student loans, child support, alimony, debts from fraud or false pretenses, DUI-related injuries, government fines, and debts not listed on your bankruptcy schedules. Each exception has specific elements that must be proven.
+
 More Resources on This Site
 
 Tax Debts
@@ -1344,24 +1488,37 @@ Chapter 7 vs Chapter 13
 
 File Bankruptcy Pro Se
 
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-openbankruptcyproject.org
-1328f.com
-chapter7vs13.org
-bankruptcymeanstest.org
-♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Complete List of Nondischargeable Debts - All 19 Subsections of 523(a)
+## Nondischargeable Debts [2026]: All 19 Subsections of 11 USC 523(a) Explained
 Source: https://523a.org/full-list.html
 
 Skip to main content
@@ -1386,6 +1543,8 @@ Every exception to discharge under 11 U.S.C. Section 523(a), explained in plain 
 523a.org › Full List
 
 How to read this list: Each entry shows the subsection number, a plain-English title, what it covers, and whether the creditor must file an adversary proceeding (AP required) or whether the exception applies automatically (self-executing). Entries marked with a detailed guide link have their own dedicated page on this site.
+
+Section 523(a) of the Bankruptcy Code contains 19 numbered subsections, each defining a category of debt that is excepted from discharge. These range from tax debts (523(a)(1)) to HOA/condo fees (523(a)(19)). Some subsections have multiple sub-parts, so the total number of specific exceptions is even higher. Each has its own requirements, and some require the creditor to take action (file an adversary proceeding) while others apply automatically.
 
 All 19 Subsections of Section 523(a)
 
@@ -1509,7 +1668,7 @@ Debts incurred to pay a fine, penalty, or forfeiture that would be nondischargea
 Divorce Property Settlements
 Self-executing
 
-Debts to a spouse, former spouse, or child that are incurred in connection with a divorce decree, separation agreement, or property settlement - to the extent NOT already covered by the DSO exception in (a)(5). This covers equalization payments, debt assumptions, and other property division obligations from divorce. Before BAPCPA (2005), these were dischargeable in Chapter 13. Now nondischargeable in both chapters.
+Debts to a spouse, former spouse, or child that are incurred in connection with a divorce decree, separation agreement, or property settlement - to the extent NOT already covered by the DSO exception in (a)(5). This covers equalization payments, debt assumptions, and other property división obligations from divorce. Before BAPCPA (2005), these were dischargeable in Chapter 13. Now nondischargeable in both chapters.
 
 Discussed in: Child Support and Alimony
 
@@ -1529,7 +1688,7 @@ Fees imposed on prisoners by courts for filing cases, motions, or appeals, or fo
 Federal Pension Overpayments
 Self-executing
 
-Debts owed under federal pension or annuity programs due to a participant's fraud, concealment, or material omission regarding the pension plan. If you received overpayments from a federal retirement plan due to your own misconduct, those overpayments are nondischargeable.
+Debts owed under federal pensión or annuity programs due to a participant's fraud, concealment, or material omission regarding the pensión plan. If you received overpayments from a federal retirement plan due to your own misconduct, those overpayments are nondischargeable.
 
 523(a)(19)
 Securities Fraud
@@ -1548,6 +1707,20 @@ Only three of the 19 subsections require the creditor to file an adversary proce
 523(a)(6) - Willful and malicious injury
 
 For all other subsections, the exception applies automatically or can be raised at any time - even after the case is closed. This is an important strategic distinction: for the three complaint-required exceptions, the creditor's failure to act within 60 days results in discharge of the debt.
+
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
 
 Related Resources
 
@@ -1630,7 +1803,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 You May Also Find Helpful
 
@@ -1640,18 +1813,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org 523a.org 109g.org 727a8.com relieffromstay.org dischargeinjunction.com prosedebtors.org ♥ Sponsor GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1671,9 +1859,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1805,6 +1993,20 @@ Are student loan penalties or fees government fines?
 
 No. Student loan penalties, collection costs, and fees are part of the student loan obligation and are analyzed under Section 523(a)(8), not (a)(7).
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
+
 Related Resources
 
 All Nondischargeable Debts - Section 523(a) Overview
@@ -1876,7 +2078,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 You May Also Find Helpful
 
@@ -1886,18 +2088,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org 523a.org 109g.org 727a8.com relieffromstay.org dischargeinjunction.com prosedebtors.org ♥ Sponsor GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1917,9 +2134,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1989,7 +2206,7 @@ Chapter 7: Discharge vs. the Surviving Lien
 
 In Chapter 7, pre-petition HOA debt is treated as general unsecured debt. Your personal liability for pre-petition fees is eliminated by the discharge. The HOA cannot sue you, garnish your wages, or pursue you personally for the amounts owed before filing.
 
-However, under 11 U.S.C. Section 522(c) and the Supreme Court's decision in Dewsnup v. Timm, liens pass through bankruptcy unaffected unless specifically avoided. This means:
+However, under 11 U.S.C. Section 522(c) and the Supreme Court's decisión in Dewsnup v. Timm, liens pass through bankruptcy unaffected unless specifically avoided. This means:
 
 If You Keep the Property
 
@@ -2155,6 +2372,20 @@ Do HOA fees accrue after filing?
 
 Yes. HOA fees are monthly obligations that arise from property ownership. Filing bankruptcy does not stop them from accruing. Every month that you own the property, a new HOA fee obligation arises. These post-petition fees are not covered by the discharge and are your full personal responsibility. This is why the timing of property surrender and foreclosure completion is so important - the longer you own the property after filing, the more post-petition HOA debt accumulates.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
+
 Related Resources
 
 All Nondischargeable Debts - Section 523(a) Overview
@@ -2230,7 +2461,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 You May Also Find Helpful
 
@@ -2240,18 +2471,33 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org 523a.org 109g.org 727a8.com relieffromstay.org dischargeinjunction.com prosedebtors.org ♥ Sponsor GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2271,9 +2517,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2282,7 +2528,7 @@ This site provides general information, not legal advice. Consult a qualified at
 ## Section 523(a) - Nondischargeable Debts in Bankruptcy [2026 Guide]
 Source: https://523a.org/
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 Skip to main content
 
@@ -2299,11 +2545,13 @@ Gov Fines
 Student Loans
 DUI/DWI
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Section 523(a) Nondischargeable Debts
 
 A plain-language guide to 11 U.S.C. Section 523(a) - the federal law that defines which debts survive bankruptcy and cannot be eliminated.
+
+Section 523(a) lists 19 categories of nondischargeable debts including recent tax debts, debts obtained by fraud, domestic support obligations, student loans (absent undue hardship), DUI judgments, criminal fines, and debts from willful and malicious injury. These survive both Chapter 7 and Chapter 13.
 
 What Are Nondischargeable Debts?
 
@@ -2384,7 +2632,7 @@ Section 524 Discharge Injunction
 
 📍 Bankruptcy guides for all 50 states
 
-🌎 Guias en Espanol
+🌎 Guías en Español
 
 📖 61-term bankruptcy glossary
 
@@ -2441,7 +2689,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Your Next Questions
 
@@ -2569,41 +2817,47 @@ You're subscribed. Thank you!
 
 Privacy policy
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Open Bankruptcy Project
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
+
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-462+ Court Documents Freed from PACER
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+Privacy |
+Terms
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
-Rule 9037 PII Scanner
-
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-
-Privacy | Terms | Open Bankruptcy Project
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2622,6 +2876,35 @@ $0 of $5,000 Q1 PACER research goal
 Sponsor this research
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Index
 
 ---
 
@@ -2648,6 +2931,8 @@ Student Loans and Bankruptcy
 A comprehensive guide to discharging student loan debt under 11 U.S.C. Section 523(a)(8) - the undue hardship standard, court tests, recent DOJ changes, and alternatives to discharge.
 
 Network / 523a.org / Student Loans
+
+Yes, but it requires proving 'undue hardship' under 11 U.S.C. Section 523(a)(8). You must file a separate adversary proceeding (lawsuit) within your bankruptcy case. Most courts apply either the Brunner test or the totality of circumstances test. The 2022 DOJ guidance has made discharge significantly easier for federal student loans by directing DOJ attorneys to evaluate cases under a standardized framework rather than automatically opposing every request.
 
 In This Guide
 
@@ -3050,6 +3335,20 @@ Has the 2022 DOJ guidance actually made it easier to discharge student loans?
 
 Yes. The November 2022 joint guidance from the Department of Justice and Department of Education directed government attorneys to use a standardized attestation form to evaluate discharge requests rather than automatically opposing every case. In the first year, the DOJ agreed to discharge or partial discharge in hundreds of cases that previously would have been contested. The guidance is particularly favorable for borrowers with disabilities, older borrowers, long-term defaulters, and those with income-driven repayment payments of $0. However, the guidance is an internal policy - not a law - and could be reversed by a future administration.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
+
 Related Resources
 
 All Nondischargeable Debts - Section 523(a) Overview
@@ -3125,7 +3424,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 You May Also Find Helpful
 
@@ -3135,30 +3434,31 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -3408,6 +3708,20 @@ I owe state and federal taxes. Can I discharge both?
 
 Yes. Both state and federal income taxes follow the same five-condition test under Section 523(a)(1). Analyze each tax year and each taxing authority separately - some may qualify while others do not.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
+
 Related Resources
 
 All Nondischargeable Debts - Section 523(a) Overview
@@ -3479,7 +3793,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 You May Also Find Helpful
 
@@ -3489,30 +3803,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -3532,9 +3849,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -3598,7 +3915,7 @@ Note that this exception applies in Chapter 7 (Section 727), Chapter 11 (Section
 
 The Supreme Court Standard: Kawaauhau v. Geiger (1998)
 
-The most important case interpreting Section 523(a)(6) is Kawaauhau v. Geiger, 523 U.S. 57 (1998). Before this decision, courts were split on whether "willful" meant the debtor intended the act that caused the injury, or intended the injury itself.
+The most important case interpreting Section 523(a)(6) is Kawaauhau v. Geiger, 523 U.S. 57 (1998). Before this decisión, courts were split on whether "willful" meant the debtor intended the act that caused the injury, or intended the injury itself.
 
 The Supreme Court resolved this split unanimously: "willful" means the debtor intended the injury, not merely the act.
 
@@ -3750,6 +4067,20 @@ What is the deadline for objecting to discharge under 523(a)(6)?
 
 The creditor must file an adversary proceeding within 60 days after the first date set for the 341 meeting of creditors (Rule 4007(c)). This deadline can be extended by court order if a motion is filed before the deadline expires, but it cannot be revived after it passes. If the creditor misses the deadline, the debt is discharged.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Cohen v. de la Cruz, 523 U.S. 213 (1998) - Section 523(a)(2)(A) nondischargeability extends to all debts arising from the fraud (including treble damages and attorneys fees), not just the actual money obtained by fraud.
+
+Husky International Electronics, Inc. v. Ritz, 578 U.S. 355 (2016) - "actual fraud" under Section 523(a)(2)(A) does NOT require an affirmative misrepresentation; fraudulent conveyance schemes qualify.
+
+Bullock v. BankChampaign, N.A., 569 U.S. 267 (2013) - "defalcation" under Section 523(a)(4) requires a culpable state of mind: gross recklessness or knowledge of improper conduct.
+
+Kawaauhau v. Geiger, 523 U.S. 57 (1998) - "willful and malicious injury" under Section 523(a)(6) requires intent to cause injury; mere negligence or recklessness does not suffice. Limits the reach of (a)(6).
+
+Field v. Mans, 516 U.S. 59 (1995) - reliance standard for Section 523(a)(2)(A) fraud is "justifiable" reliance, not "reasonable" reliance; lower standard for creditors than common-law fraud.
+
 Related Resources
 
 All Nondischargeable Debts - Section 523(a) Overview
@@ -3827,7 +4158,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 You May Also Find Helpful
 
@@ -3837,18 +4168,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org 523a.org 109g.org 727a8.com relieffromstay.org dischargeinjunction.com prosedebtors.org ♥ Sponsor GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -3868,9 +4214,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -3932,7 +4278,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -3942,6 +4288,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About 523a.org
+Source: https://523a.org/about.html
+
+523a.org
+
+Home
+About
+Privacy
+
+About 523a.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+523a.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.

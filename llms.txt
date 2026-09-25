@@ -1,5 +1,5 @@
 # Section 523(a) - Nondischargeable Debts in Bankruptcy [2026 Guide]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Section 523(a) lists 19 types of nondischargeable debts that survive bankruptcy. Tax debts, fraud, student loans, DUI, child support, alimony, government fines, and more. Free 2026 guide with every exception to discharge explained in plain English.
 
@@ -13,7 +13,7 @@
 - DUI/DWI Debts in Bankruptcy - Section 523(a)(9): https://523a.org/dwi-debts.html
 - Debts from Fraud in Bankruptcy - Section 523(a)(2): https://523a.org/fraud-debts.html
 - Nondischargeable Debts FAQ - Section 523(a) Questions Answered: https://523a.org/frequently-asked-questions.html
-- Complete List of Nondischargeable Debts - All 19 Subsections of 523(a): https://523a.org/full-list.html
+- Nondischargeable Debts [2026]: All 19 Subsections of 11 USC 523(a) Explained: https://523a.org/full-list.html
 - Government Fines and Penalties in Bankruptcy - Sections 523(a)(7) and 523(a)(13): https://523a.org/government-fines.html
 - Are HOA Fees Dischargeable in Bankruptcy? - 523(a): https://523a.org/hoa-fees.html
 - Section 523(a) - Nondischargeable Debts in Bankruptcy: https://523a.org/
@@ -21,6 +21,7 @@
 - Tax Debts in Bankruptcy - When Can You Discharge IRS Debt? - 523(a): https://523a.org/tax-debts.html
 - Section 523(a)(6) - Willful and Malicious Injury Debts in Bankruptcy: https://523a.org/willful-injury.html
 - Privacy Policy: https://523a.org/privacy.html
+- About 523a.org: https://523a.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
