@@ -423,9 +423,9 @@ Luxury Goods or Services - The 90-Day/$800 Rule
 
 Consumer debts owed to a single creditor aggregating more than $800 for luxury goods or services incurred within 90 days before the order for relief (filing date) are presumed to be nondischargeable.
 
-Cash Advances - The 70-Day/$1,100 Rule
+Cash Advances - The 70-Day/$1,250 Rule
 
-Cash advances aggregating more than $1,100 that are extensions of consumer credit under an open-end credit plan obtained by the debtor within 70 days before the order for relief are presumed to be nondischargeable.
+Cash advances aggregating more than $1,250 that are extensions of consumer credit under an open-end credit plan obtained by the debtor within 70 days before the order for relief are presumed to be nondischargeable.
 
 These dollar amounts are periodically adjusted. The $800 and $1,100 figures were set by the 2005 BAPCPA amendments and are adjusted every three years for inflation under 11 U.S.C. Section 104. Always verify the current amounts at the time of filing. The figures stated here reflect the amounts as of the most recent adjustment.
 
@@ -1047,7 +1047,7 @@ Consumer debts owed to a single creditor for luxury goods or services exceeding 
 
 Cash Advance Presumption
 
-Cash advances totaling more than $1,100 from a single creditor within 70 days before filing are presumed nondischargeable.
+Cash advances totaling more than $1,250 from a single creditor within 70 days before filing are presumed nondischargeable.
 
 "Presumed" does not mean "automatic." The presumption is rebuttable. You can present evidence showing you genuinely intended to repay when you made the charges. If you can show you had income, were employed, and had no plan to file bankruptcy at the time, the presumption can be overcome.
 
@@ -1405,7 +1405,7 @@ AP required within 60 days
 
 (a)(2)(B): Debts obtained through a materially false written statement about the debtor's financial condition, made with intent to deceive and reasonably relied upon.
 
-(a)(2)(C): Presumption of fraud for luxury goods over $800 within 90 days and cash advances over $1,100 within 70 days of filing.
+(a)(2)(C): Presumption of fraud for luxury goods over $900 within 90 days and cash advances over $1,250 within 70 days of filing.
 
 Detailed guide: Debts from Fraud
 
@@ -2329,7 +2329,7 @@ Tax Debts in Bankruptcy - Section 523(a)(1) - Can you discharge IRS debt? Income
 
 Fraud Debts - Section 523(a)(2) - Debts obtained through false pretenses, false representation, or actual fraud. The creditor must file an adversary proceeding within 60 days of the 341 meeting.
 
-Credit Card Fraud Presumption - Section 523(a)(2)(C) - Luxury goods over $800 within 90 days and cash advances over $1,100 within 70 days of filing are presumed nondischargeable.
+Credit Card Fraud Presumption - Section 523(a)(2)(C) - Luxury goods over $900 within 90 days and cash advances over $1,250 within 70 days of filing are presumed nondischargeable.
 
 Child Support and Alimony - Section 523(a)(5) - Domestic support obligations are never dischargeable. Covers child support arrears, spousal support, and related attorney fees. For a broader look at how divorce intersects with debt and bankruptcy, see our dedicated guide.
 
