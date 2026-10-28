@@ -1,6 +1,6 @@
 # 523a.org -- Full Content
 
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 This file contains the full text content of all pages on 523a.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -3034,7 +3034,7 @@ Evidence of good faith includes:
 
 Making payments when you could afford to, even if sporadic
 
-Applying for income-driven repayment plans (IBR, PAYE, REPAYE)
+Applying for income-driven repayment plans (IBR or the Repayment Assistance Plan; earlier, PAYE, REPAYE, or SAVE)
 
 Requesting deferments or forbearances rather than simply defaulting
 
@@ -3212,13 +3212,15 @@ As of 2024, the main income-driven repayment plans for federal student loans inc
 
 Income-Based Repayment (IBR): Payments capped at 10-15% of discretionary income (depending on when you borrowed). Forgiveness after 20-25 years of qualifying payments.
 
-Pay As You Earn (PAYE): Payments capped at 10% of discretionary income. Forgiveness after 20 years. Only available for newer borrowers (loans disbursed after October 2007).
+Pay As You Earn (PAYE): Payments capped at 10% of discretionary income. Forgiveness after 20 years. Open only to borrowers already on PAYE on July 1, 2024; ends June 30, 2028.
 
-Revised Pay As You Earn (REPAYE) / SAVE Plan: The SAVE (Saving on a Valuable Education) plan replaced REPAYE in 2023. Payments set at 5-10% of discretionary income depending on the loan type. More generous income exclusion - 225% of poverty line rather than 150%. Forgiveness after 20-25 years. Unpaid interest does not capitalize.
+Repayment Assistance Plan (RAP): Available July 1, 2026. Payments are 1% to 10% of adjusted gross income. Forgiveness after 30 years.
 
-Income-Contingent Repayment (ICR): Payments are the lesser of 20% of discretionary income or what you would pay on a 12-year fixed plan, adjusted for income. Forgiveness after 25 years. This is the only IDR plan available for Parent PLUS loans (after consolidation).
+Revised Pay As You Earn (REPAYE) / SAVE Plan: Ended by court order on March 10, 2026. SAVE borrowers are being moved to other plans.
 
-SAVE Plan Legal Challenges: The SAVE plan has faced ongoing legal challenges. Courts have issued injunctions affecting enrollment in some periods. Check the Department of Education's website (studentaid.gov) for the current status before applying. If the SAVE plan is unavailable, other IDR plans remain accessible.
+Income-Contingent Repayment (ICR): Payments are the lesser of 20% of discretionary income or what you would pay on a 12-year fixed plan, adjusted for income. Forgiveness after 25 years. Open to limited groups, and the only IDR plan for consolidation loans made on or after July 1, 2025 that repaid Parent PLUS loans; ends June 30, 2028.
+
+SAVE Plan Ended: A court order ended the SAVE plan on March 10, 2026. SAVE borrowers must choose a new plan or will be placed in a standard plan. Check StudentAid.gov for the plans open to you.
 
 How IDR Interacts with Bankruptcy
 
@@ -3230,9 +3232,9 @@ Zero-dollar payments: If your income is low enough, your IDR payment may be $0 p
 
 Fallback option: If the court denies discharge, you can continue on IDR rather than facing full-payment demands.
 
-However, IDR has significant drawbacks. The forgiveness timeline is 20-25 years - meaning you carry the debt for decades. Under current law, forgiven balances may be treated as taxable income (though a temporary provision exempts forgiveness from taxes through 2025). And IDR does not help with private student loans at all.
+However, IDR has significant drawbacks. The forgiveness timeline is 20 to 30 years - meaning you carry the debt for decades. The American Rescue Plan Act exclusion covered student loan discharges through December 31, 2025, and was not extended. Forgiven balances after that date can be taxable income. And IDR does not help with private student loans at all.
 
-For borrowers with very large loan balances, low income, and limited prospects for income growth, bankruptcy discharge may provide faster and more complete relief than waiting 20-25 years for IDR forgiveness.
+For borrowers with very large loan balances, low income, and limited prospects for income growth, bankruptcy discharge may provide faster and more complete relief than waiting 20 to 30 years for IDR forgiveness.
 
 9. Public Service Loan Forgiveness (PSLF)
 
